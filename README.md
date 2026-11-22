@@ -5,7 +5,7 @@ Self-taught Full-Stack Developer based in Spain. I build web applications with a
 <br>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,nestjs,postgres,tailwind&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,nestjs,postgres,tailwind&perline=9" size="38" alt="Tech Stack" />
 </p>
 
 <br>
