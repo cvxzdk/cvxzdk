@@ -2,8 +2,6 @@
 
 Self-taught Full-Stack Developer based in Spain. I build web applications with a focus on performance, clean code, and thoughtful UX/UI. I enjoy exploring new technologies, bringing ideas to life, and constantly improving my skills.
 
-<br>
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts" width="38" alt="TypeScript" />
   <img src="https://skillicons.dev/icons?i=js" width="38" alt="JavaScript" />
