@@ -16,6 +16,4 @@ Self-taught Full-Stack Developer based in Spain. I build web applications with a
   <img src="https://skillicons.dev/icons?i=tailwind" width="38" alt="Tailwind CSS" />
 </p>
 
-<br>
-
 <i>Good code is its own best documentation.</i>
