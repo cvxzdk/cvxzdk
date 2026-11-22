@@ -1,6 +1,6 @@
 ### Hi, I'm Gurzil
 
-Self-taught Full-Stack Developer based in Spain. I build web applications with a focus on performance, clean code, and thoughtful UX/UI. I enjoy exploring new technologies, bringing ideas to life, and constantly improving my skills.
+Self-taught Full-Stack Developer based in Spain. I build web applications with a focus on performance, clean code, and good UX/UI. I enjoy exploring new technologies, bringing ideas to life, and constantly improving my skills.
 
 <br>
 
