@@ -1,6 +1,6 @@
 ### Hi, I'm Gurzil
-
-Self-taught Full-Stack Developer based in Spain. I build web applications. I like to focus on clean code, performance, and great user experiences.
+Full-Stack Developer based in Spain. I build web applications. I like to focus on clean code, performance, and great user experiences. <br>
+*What I Typically Use (Non-Exhaustive):*
 
 <p align="left">
   <img src="https://api.iconify.design/logos/typescript-icon.svg" width="34" alt="TypeScript" />
