@@ -1,14 +1,12 @@
 
 #### Hi, I'm Gurzil
-Full-Stack Developer based in Spain. I build web applications. I like to focus on clean code, performance, and great user experiences.
+Full-Stack Developer based in Spain. I build web applications. I like to focus on clean code, performance, and great user experiences. <br>
+Currently working on <a href="https://github.com/cvxzdk/codeview"><strong>codeview</strong></a> - a tool for extracting and exploring code from GitHub repositories and local directories.
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=cvxzdk&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cvxzdk&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" width="49%" />
-</p>
-Currently working on <a href="https://github.com/cvxzdk/codeview"><strong>codeview</strong></a> - a tool for extracting and exploring code from GitHub repositories and local directories.
-<br>
-
-#### *What I Typically Use (Non-Exhaustive):*
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cvxzdk&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" width="49%" /></p>
+  
+*What I Typically Use (Non-Exhaustive):*
 <p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/akar-icons/javascript-fill.svg?color=%23e6e9ec" />
