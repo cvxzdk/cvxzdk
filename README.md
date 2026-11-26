@@ -1,15 +1,49 @@
-### Hi, I'm Gurzil
-Full-Stack Developer based in Spain. I build web applications. I like to focus on clean code, performance, and great user experiences. <br>
-*What I Typically Use (Non-Exhaustive):*
 
+#### Hi, I'm Gurzil
+Full-Stack Developer based in Spain. I build web applications. I like to focus on clean code, performance, and great user experiences.
 <p align="left">
-  <img src="https://api.iconify.design/logos/typescript-icon.svg" width="34" alt="TypeScript" />
-  <img src="https://api.iconify.design/logos/javascript.svg" width="34" alt="JavaScript" />
-  <img src="https://api.iconify.design/logos/python.svg" width="34" alt="Python" />
-  <img src="https://api.iconify.design/logos/java.svg" width="34" alt="Java" />
-  <img src="https://api.iconify.design/logos/react.svg" width="34" alt="React" />
-  <img src="https://api.iconify.design/logos/nextjs-icon.svg" width="34" alt="Next.js" />
-  <img src="https://api.iconify.design/logos/nestjs.svg" width="34" alt="NestJS" />
-  <img src="https://api.iconify.design/logos/postgresql.svg" width="34" alt="PostgreSQL" />
-  <img src="https://api.iconify.design/logos/tailwindcss-icon.svg" width="34" alt="Tailwind CSS" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cvxzdk&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cvxzdk&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" width="49%" />
+</p>
+Currently working on <a href="https://github.com/cvxzdk/codeview"><strong>codeview</strong></a> - a tool for extracting and exploring code from GitHub repositories and local directories.
+<br>
+
+#### *What I Typically Use (Non-Exhaustive):*
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/akar-icons/javascript-fill.svg?color=%23e6e9ec" />
+    <img src="https://api.iconify.design/akar-icons/javascript-fill.svg?color=%23d0d7de" width="34" alt="JavaScript" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/akar-icons/typescript-fill.svg?color=%23e6e9ec" />
+    <img src="https://api.iconify.design/akar-icons/typescript-fill.svg?color=%23d0d7de" width="34" alt="TypeScript" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/akar-icons/python-fill.svg?color=%23e6e9ec" />
+    <img src="https://api.iconify.design/akar-icons/python-fill.svg?color=%23d0d7de" width="34" alt="Python" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/bxl/java.svg?color=%23e6e9ec" />
+    <img src="https://api.iconify.design/bxl/java.svg?color=%23d0d7de" width="34" alt="Java" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/akar-icons/react-fill.svg?color=%23e6e9ec" />
+    <img src="https://api.iconify.design/akar-icons/react-fill.svg?color=%23d0d7de" width="34" alt="React" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/akar-icons/nextjs-fill.svg?color=%23e6e9ec" />
+    <img src="https://api.iconify.design/akar-icons/nextjs-fill.svg?color=%23d0d7de" width="34" alt="Next.js" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/nestjs.svg?color=%23e6e9ec" />
+    <img src="https://api.iconify.design/simple-icons/nestjs.svg?color=%23d0d7de" width="34" alt="NestJS" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/akar-icons/postgresql-fill.svg?color=%23e6e9ec" />
+    <img src="https://api.iconify.design/akar-icons/postgresql-fill.svg?color=%23d0d7de" width="34" alt="PostgreSQL" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/bxl/tailwind-css.svg?color=%23e6e9ec" />
+    <img src="https://api.iconify.design/bxl/tailwind-css.svg?color=%23d0d7de" width="34" alt="Tailwind CSS" />
+  </picture>
 </p>
